@@ -1,0 +1,4 @@
+
+*.class
+/Version-2/.idea
+*.lst
